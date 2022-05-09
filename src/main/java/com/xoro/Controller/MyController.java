@@ -112,8 +112,6 @@ public class MyController {
 
     @RequestMapping("/nameP2")
     public String nameP2(Model model) {
-       // System.out.println(player.getName());
-        //p1Name = player.getName();
 
         Player player2 = new Player();
         model.addAttribute("player2", player2);
