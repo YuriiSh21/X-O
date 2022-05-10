@@ -7,8 +7,9 @@
 <h1>CONGRATULATIONS!!!</h1>
 
 <H4>Player ${winner} - win!</H4>
+<p><img src="images/board.jpg" alt="Imagens"></p>
+<%--<p><img src="images/Salute.jpg" alt="Image"></p>--%>
 
-<p><img src="images/Salute.jpg" alt="Image"></p>
 
 <input type="button" value="New GAME"
        onclick="window.location.href = 'newGame'"/>
